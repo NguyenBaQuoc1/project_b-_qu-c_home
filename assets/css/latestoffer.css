@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.elementor-section {
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.elementor-section .elementor-container {
+    width: 1140px;
+    margin: 0px auto;
+    height: 100%;
+    background-color: #ccc;
+}
+
+.elementor-section .offer-title {
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.elementor-section .offer-title h1 {
+    margin: 20px 0px;
+}
+
+.img-offer {
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.img-offer img {
+    height: auto;
+}
